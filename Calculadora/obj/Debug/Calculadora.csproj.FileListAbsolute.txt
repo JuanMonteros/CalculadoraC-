@@ -1,0 +1,8 @@
+D:\PruebasGit\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\PruebasGit\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\PruebasGit\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\PruebasGit\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\PruebasGit\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\PruebasGit\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\PruebasGit\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\PruebasGit\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
